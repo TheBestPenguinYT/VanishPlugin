@@ -1,0 +1,10 @@
+name: VanishPlugin
+version: '${project.version}'
+main: me.penguin.vanishplugin.VanishPlugin
+api-version: 1.19
+authors: [ TheBestPenguin ]
+description: A plugin that allows you to vanish in game.
+website: https://www.youtube.com/c/thebestpenguin
+commands:
+  vanish:
+    description: Vanishes you from the world.
